@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "id": "e104be1c-5721-4b51-99be-8544e8242ac4",
+    "title": "Jagadhatri 29th January 2026 Episode 80",
+    "description": "",
+    "date": "2026-02-04T05:41:06.964Z",
+    "playlist": "videos/e104be1c-5721-4b51-99be-8544e8242ac4/playlist.m3u8",
+    "thumbnail": "videos/e104be1c-5721-4b51-99be-8544e8242ac4/thumb.jpg"
+  },
+  {
     "id": "db2cb977-02b0-4c7f-a500-d729cd34861f",
     "title": "Jagadhatri 30th January 2026 Episode 81",
     "description": "",
