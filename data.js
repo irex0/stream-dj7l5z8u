@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "id": "37460650-5734-43aa-a5ed-92d2e97188e9",
+    "title": "Jagadhatri 2nd February 2026 Episode 85",
+    "description": "",
+    "date": "2026-02-04T07:01:23.075Z",
+    "playlist": "videos/37460650-5734-43aa-a5ed-92d2e97188e9/playlist.m3u8",
+    "thumbnail": "videos/37460650-5734-43aa-a5ed-92d2e97188e9/thumb.jpg"
+  },
+  {
     "id": "ad8df652-6c26-48e3-b994-fa62a790076a",
     "title": "Jagadhatri 3rd February 2026 Episode 86",
     "description": "",
